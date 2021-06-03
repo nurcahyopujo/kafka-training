@@ -1,0 +1,6 @@
+13.212.241.156:8080 - kafka web ui
+13.212.241.156:8004 - zookeeper navigator
+13.212.241.156:8081 - schema registry
+13.212.241.156:8001 - schema registry ui
+13.212.241.156:8003 - kafka connect ui
+13.212.241.156:8088 - ksqldb server
